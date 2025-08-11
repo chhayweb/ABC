@@ -1,0 +1,18 @@
+            .p1 {
+                color: green;
+                text-align: center;
+                font-weight: 400;
+
+            }
+
+            .p2 {
+                color: powderblue;
+                text-align: center;
+                font-weight: bold;background-color: rgb(36, 185, 31);
+
+            }
+
+            #p3 {
+                color: blueviolet;
+                text-align: center;
+            }
